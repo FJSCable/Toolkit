@@ -1,0 +1,17 @@
+c:\users\fjs104\source\repos\FJS_TOOLKIT\FJS_TOOLKIT\bin\Debug\FJS_TOOLKIT.exe.config
+c:\users\fjs104\source\repos\FJS_TOOLKIT\FJS_TOOLKIT\bin\Debug\FJS_TOOLKIT.exe
+c:\users\fjs104\source\repos\FJS_TOOLKIT\FJS_TOOLKIT\bin\Debug\FJS_TOOLKIT.pdb
+c:\users\fjs104\source\repos\FJS_TOOLKIT\FJS_TOOLKIT\obj\Debug\FJS_TOOLKIT.csprojAssemblyReference.cache
+c:\users\fjs104\source\repos\FJS_TOOLKIT\FJS_TOOLKIT\obj\Debug\FJS_TOOLKIT.Properties.Resources.resources
+c:\users\fjs104\source\repos\FJS_TOOLKIT\FJS_TOOLKIT\obj\Debug\FJS_TOOLKIT.csproj.GenerateResource.cache
+c:\users\fjs104\source\repos\FJS_TOOLKIT\FJS_TOOLKIT\obj\Debug\FJS_TOOLKIT.csproj.CoreCompileInputs.cache
+c:\users\fjs104\source\repos\FJS_TOOLKIT\FJS_TOOLKIT\obj\Debug\FJS_TOOLKIT.exe
+c:\users\fjs104\source\repos\FJS_TOOLKIT\FJS_TOOLKIT\obj\Debug\FJS_TOOLKIT.pdb
+C:\Users\FJS104\source\repos\FJS_TOOLKIT\FJS_TOOLKIT\obj\Debug\FJS_TOOLKIT.FJS_PDF_2_JPG.resources
+C:\Users\FJS104\source\repos\FJS_TOOLKIT\FJS_TOOLKIT\obj\Debug\FJS_TOOLKIT.FJS_Toolkit.resources
+C:\Users\FJS104\source\repos\FJS_TOOLKIT\FJS_TOOLKIT\obj\Debug\FJS_TOOLKIT.csproj.CopyComplete
+C:\Users\FJS104\source\repos\FJS_TOOLKIT\FJS_TOOLKIT\bin\Debug\PdfiumViewer.dll
+C:\Users\FJS104\source\repos\FJS_TOOLKIT\FJS_TOOLKIT\bin\Debug\PdfiumViewer.xml
+C:\Users\FJS104\source\repos\FJS_TOOLKIT\FJS_TOOLKIT\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\FJS104\source\repos\FJS_TOOLKIT\FJS_TOOLKIT\bin\Debug\x86\pdfium.dll
+C:\Users\FJS104\source\repos\FJS_TOOLKIT\FJS_TOOLKIT\bin\Debug\x64\pdfium.dll
